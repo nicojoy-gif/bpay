@@ -27,7 +27,7 @@ function Footer() {
         <p>Blog</p>
         <p>Contact</p>
       </div>
-      <div className='flex pt-8 items-center space-x-6'>
+      <div className='flex lg:pt-8 pt-4 items-center space-x-6'>
       <Image src={fb} alt="facebook" className='h-6'/>
       <Image src={tw} alt="twitter" className='h-6'/>
       <Image src={ins} alt="instagram" className='h-6'/>
@@ -49,7 +49,7 @@ function Footer() {
                    
 
                     </div>
-                    <div className='pt-14 flex px-6 items-center space-x-6'>
+                    <div className='lg:pt-14 pt-7 flex px-6 items-center space-x-6'>
                         <p className='text-sm'>Terms of Service</p>
                         <p className='text-sm'>Privacy Policy</p>
                     </div>

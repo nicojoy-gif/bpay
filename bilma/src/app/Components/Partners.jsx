@@ -6,10 +6,10 @@ import Image from "next/image";
 
 function Partners() {
   return (
-    <div className=' h-80 flex justify-center items-center mx-20'>
+    <div className=' md:h-80 h-full py-8 lg:py-0 flex justify-center items-center md:mx-20 mx-10'>
 <div className=''>
     <h3 className='font-bold text-center tracking-[-2%] py-3'>Our Partners</h3>
-    <div className='container space-x-24  flex justify-between items-center'>
+    <div className='container md:space-x-24 space-x-14  flex justify-between items-center'>
 <div>
     <Image src={VT} alt='vt-logo'/>
 </div>

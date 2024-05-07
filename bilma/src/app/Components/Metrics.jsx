@@ -3,7 +3,7 @@ import CustomComponent from './Custom'
 
 function Metrics() {
   return (
-    <div className='h-96 my-8 flex justify-center items-center flex-col'>
+    <div className='lg:h-96 h-full my-8 flex justify-center items-center flex-col'>
       <div className='text-center'>
         <h2 className='font-bold text-4xl '>Our Metrics Tells the Story</h2>
         <p className='py-5'>Our metrics gives you the inside scoop on our success</p>

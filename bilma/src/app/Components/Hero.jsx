@@ -11,7 +11,7 @@ function Hero() {
         <div className='grid md:grid-cols-2 grid-cols-1 gap-10'>
             <div className=' flex justify-center  flex-col'>
                 <div className='text-customGray lg:w-5/6 w-full '>
-                    <h3 className='font-bold text-7xl  leading-[100px] tracking-[-2.5%] '>Earn money plus points while paying your bills</h3>
+                    <h3 className='font-bold lg:text-7xl  text-4xl leading-[50px] lg:leading-[100px] tracking-[-2.5%] '>Earn money plus points while paying your bills</h3>
                     <p className='py-3 text-xl leading-8'>Earn real cash and  points while using BilmaPay for Airtime, Data, Cable TV Subscription  and Paying for your Utility Bills.</p>
                 </div>
                 <div className='flex mt-6 items-center space-x-4'>

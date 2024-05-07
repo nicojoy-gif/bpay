@@ -10,7 +10,7 @@ function Features() {
         <div className='flex flex-col justify-center items-center'>
            
     <h3 className='font-bold text-center tracking-[-2%] py-3'>Features</h3>
-    <p className='py-5 text-customGray text-4xl'>Why you should use BilmaPay</p>
+    <p className='py-5 text-customGray lg:text-4xl text-2xl'>Why you should use BilmaPay</p>
         </div>
         <div className='mx-12 space-y-6 my-6'>
         <FeatureCard
